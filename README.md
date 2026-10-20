@@ -84,7 +84,7 @@ Ambulance-Dispatch-Routing-System/
 ├── data/                     # Synthetic road, fleet, and call data
 ├── docs/                     # Architecture and design analysis
 ├── results/                  # Benchmark results and sample dispatch log
-├── scripts/                 # Synthetic data generation + benchmark tools
+├── scripts/                  # Synthetic data generation + benchmark tools
 ├── tests/                    # Automated tests
 ├── .github/workflows/        # CI test workflow
 ├── pyproject.toml
