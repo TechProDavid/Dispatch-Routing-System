@@ -1,0 +1,21 @@
+Algorithm,Run,Route Processing Time (ms)
+dijkstra,1,1.419625
+dijkstra,2,1.548444
+dijkstra,3,1.665940
+dijkstra,4,1.485277
+dijkstra,5,1.411872
+dijkstra,6,1.485056
+dijkstra,7,1.326786
+dijkstra,8,3.265489
+dijkstra,9,1.469209
+dijkstra,10,1.525358
+bellman-ford,1,3.339535
+bellman-ford,2,3.427437
+bellman-ford,3,3.790766
+bellman-ford,4,3.421552
+bellman-ford,5,3.387721
+bellman-ford,6,3.547692
+bellman-ford,7,3.678520
+bellman-ford,8,3.295313
+bellman-ford,9,3.164213
+bellman-ford,10,3.543589

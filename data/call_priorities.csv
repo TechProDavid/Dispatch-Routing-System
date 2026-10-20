@@ -1,0 +1,21 @@
+Call Type,Priority
+Cardiac Arrest,1
+Stroke Symptoms,1
+Major Collision,1
+Structure Fire,1
+Labor Emergency,1
+Drug Overdose,1
+Respiratory Distress,1
+Severe Hemorrhage,1
+Head Trauma,1
+Seizure,1
+Minor Collision,2
+Allergic Reaction,2
+Suspected Fracture,2
+Syncope,2
+Animal Injury,2
+Minor Burn,3
+Gastrointestinal Illness,3
+Persistent Fever,3
+Dehydration,3
+Anxiety Episode,3

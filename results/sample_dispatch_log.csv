@@ -1,0 +1,101 @@
+Call ID,Priority,Emergency,Call Location,Selected Ambulance,Route,Estimated Travel Time
+3,1,Seizure,Central Station,Medic 1,Central Station,0
+4,1,Drug Overdose,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+7,1,Seizure,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+9,1,Respiratory Distress,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+10,1,Respiratory Distress,South Park,Medic 3,South Park,0
+11,1,Cardiac Arrest,River Junction,Medic 3,South Park -> River Junction,8.89
+12,1,Labor Emergency,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+14,1,Severe Hemorrhage,North Clinic,Medic 2,North Clinic,0
+16,1,Severe Hemorrhage,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+17,1,Structure Fire,North Clinic,Medic 2,North Clinic,0
+19,1,Severe Hemorrhage,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+20,1,Labor Emergency,East Market,Medic 1,Central Station -> East Market,2.28
+21,1,Stroke Symptoms,North Clinic,Medic 2,North Clinic,0
+23,1,Stroke Symptoms,Central Station,Medic 1,Central Station,0
+25,1,Major Collision,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+26,1,Severe Hemorrhage,River Junction,Medic 3,South Park -> River Junction,8.89
+27,1,Severe Hemorrhage,North Clinic,Medic 2,North Clinic,0
+28,1,Drug Overdose,Central Station,Medic 1,Central Station,0
+29,1,Severe Hemorrhage,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+32,1,Severe Hemorrhage,Central Station,Medic 1,Central Station,0
+33,1,Drug Overdose,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+35,1,Severe Hemorrhage,North Clinic,Medic 2,North Clinic,0
+37,1,Seizure,West Gate,Medic 2,North Clinic -> West Gate,5.37
+38,1,Seizure,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+40,1,Respiratory Distress,Central Station,Medic 1,Central Station,0
+42,1,Respiratory Distress,North Clinic,Medic 2,North Clinic,0
+43,1,Cardiac Arrest,River Junction,Medic 3,South Park -> River Junction,8.89
+46,1,Structure Fire,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+47,1,Seizure,West Gate,Medic 2,North Clinic -> West Gate,5.37
+48,1,Cardiac Arrest,Central Station,Medic 1,Central Station,0
+50,1,Labor Emergency,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+51,1,Structure Fire,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+52,1,Respiratory Distress,River Junction,Medic 3,South Park -> River Junction,8.89
+53,1,Structure Fire,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+54,1,Labor Emergency,West Gate,Medic 2,North Clinic -> West Gate,5.37
+57,1,Major Collision,River Junction,Medic 3,South Park -> River Junction,8.89
+60,1,Cardiac Arrest,East Market,Medic 1,Central Station -> East Market,2.28
+62,1,Severe Hemorrhage,South Park,Medic 3,South Park,0
+63,1,Labor Emergency,East Market,Medic 1,Central Station -> East Market,2.28
+66,1,Head Trauma,East Market,Medic 1,Central Station -> East Market,2.28
+67,1,Stroke Symptoms,South Park,Medic 3,South Park,0
+68,1,Severe Hemorrhage,East Market,Medic 1,Central Station -> East Market,2.28
+69,1,Major Collision,West Gate,Medic 2,North Clinic -> West Gate,5.37
+71,1,Severe Hemorrhage,East Market,Medic 1,Central Station -> East Market,2.28
+72,1,Severe Hemorrhage,Central Station,Medic 1,Central Station,0
+75,1,Major Collision,River Junction,Medic 3,South Park -> River Junction,8.89
+79,1,Respiratory Distress,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+81,1,Head Trauma,West Gate,Medic 2,North Clinic -> West Gate,5.37
+82,1,Respiratory Distress,West Gate,Medic 2,North Clinic -> West Gate,5.37
+83,1,Severe Hemorrhage,Central Station,Medic 1,Central Station,0
+84,1,Stroke Symptoms,East Market,Medic 1,Central Station -> East Market,2.28
+86,1,Seizure,South Park,Medic 3,South Park,0
+87,1,Respiratory Distress,Central Station,Medic 1,Central Station,0
+88,1,Structure Fire,North Clinic,Medic 2,North Clinic,0
+91,1,Drug Overdose,East Market,Medic 1,Central Station -> East Market,2.28
+92,1,Severe Hemorrhage,South Park,Medic 3,South Park,0
+96,1,Respiratory Distress,South Park,Medic 3,South Park,0
+97,1,Structure Fire,East Market,Medic 1,Central Station -> East Market,2.28
+99,1,Cardiac Arrest,East Market,Medic 1,Central Station -> East Market,2.28
+1,2,Allergic Reaction,Central Station,Medic 1,Central Station,0
+5,2,Minor Collision,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+6,2,Minor Collision,West Gate,Medic 2,North Clinic -> West Gate,5.37
+8,2,Allergic Reaction,North Clinic,Medic 2,North Clinic,0
+15,2,Minor Collision,North Clinic,Medic 2,North Clinic,0
+36,2,Minor Collision,North Clinic,Medic 2,North Clinic,0
+39,2,Syncope,North Clinic,Medic 2,North Clinic,0
+41,2,Animal Injury,South Park,Medic 3,South Park,0
+49,2,Suspected Fracture,South Park,Medic 3,South Park,0
+55,2,Suspected Fracture,South Park,Medic 3,South Park,0
+59,2,Syncope,River Junction,Medic 3,South Park -> River Junction,8.89
+73,2,Allergic Reaction,East Market,Medic 1,Central Station -> East Market,2.28
+74,2,Allergic Reaction,South Park,Medic 3,South Park,0
+76,2,Minor Collision,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+85,2,Syncope,North Clinic,Medic 2,North Clinic,0
+89,2,Minor Collision,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+93,2,Allergic Reaction,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+95,2,Animal Injury,South Park,Medic 3,South Park,0
+98,2,Minor Collision,West Gate,Medic 2,North Clinic -> West Gate,5.37
+2,3,Minor Burn,River Junction,Medic 3,South Park -> River Junction,8.89
+13,3,Anxiety Episode,River Junction,Medic 3,South Park -> River Junction,8.89
+18,3,Anxiety Episode,North Clinic,Medic 2,North Clinic,0
+22,3,Minor Burn,East Market,Medic 1,Central Station -> East Market,2.28
+24,3,Anxiety Episode,South Park,Medic 3,South Park,0
+30,3,Dehydration,South Park,Medic 3,South Park,0
+31,3,Gastrointestinal Illness,South Park,Medic 3,South Park,0
+34,3,Anxiety Episode,North Clinic,Medic 2,North Clinic,0
+44,3,Minor Burn,Central Station,Medic 1,Central Station,0
+45,3,Dehydration,West Gate,Medic 2,North Clinic -> West Gate,5.37
+56,3,Persistent Fever,River Junction,Medic 3,South Park -> River Junction,8.89
+58,3,Minor Burn,West Gate,Medic 2,North Clinic -> West Gate,5.37
+61,3,Dehydration,South Park,Medic 3,South Park,0
+64,3,Dehydration,North Clinic,Medic 2,North Clinic,0
+65,3,Anxiety Episode,East Market,Medic 1,Central Station -> East Market,2.28
+70,3,Gastrointestinal Illness,North Clinic,Medic 2,North Clinic,0
+77,3,Dehydration,North Clinic,Medic 2,North Clinic,0
+78,3,Dehydration,Central Station,Medic 1,Central Station,0
+80,3,Dehydration,River Junction,Medic 3,South Park -> River Junction,8.89
+90,3,Anxiety Episode,Lakeside Center,Medic 3,South Park -> Lakeside Center,5.58
+94,3,Gastrointestinal Illness,North Clinic,Medic 2,North Clinic,0
+100,3,Anxiety Episode,River Junction,Medic 3,South Park -> River Junction,8.89

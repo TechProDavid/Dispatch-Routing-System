@@ -1,0 +1,101 @@
+Call ID,Location,Call Type
+1,Central Station,Allergic Reaction
+2,River Junction,Minor Burn
+3,Central Station,Seizure
+4,Lakeside Center,Drug Overdose
+5,Lakeside Center,Minor Collision
+6,West Gate,Minor Collision
+7,Lakeside Center,Seizure
+8,North Clinic,Allergic Reaction
+9,Lakeside Center,Respiratory Distress
+10,South Park,Respiratory Distress
+11,River Junction,Cardiac Arrest
+12,Lakeside Center,Labor Emergency
+13,River Junction,Anxiety Episode
+14,North Clinic,Severe Hemorrhage
+15,North Clinic,Minor Collision
+16,Lakeside Center,Severe Hemorrhage
+17,North Clinic,Structure Fire
+18,North Clinic,Anxiety Episode
+19,Lakeside Center,Severe Hemorrhage
+20,East Market,Labor Emergency
+21,North Clinic,Stroke Symptoms
+22,East Market,Minor Burn
+23,Central Station,Stroke Symptoms
+24,South Park,Anxiety Episode
+25,Lakeside Center,Major Collision
+26,River Junction,Severe Hemorrhage
+27,North Clinic,Severe Hemorrhage
+28,Central Station,Drug Overdose
+29,Lakeside Center,Severe Hemorrhage
+30,South Park,Dehydration
+31,South Park,Gastrointestinal Illness
+32,Central Station,Severe Hemorrhage
+33,Lakeside Center,Drug Overdose
+34,North Clinic,Anxiety Episode
+35,North Clinic,Severe Hemorrhage
+36,North Clinic,Minor Collision
+37,West Gate,Seizure
+38,Lakeside Center,Seizure
+39,North Clinic,Syncope
+40,Central Station,Respiratory Distress
+41,South Park,Animal Injury
+42,North Clinic,Respiratory Distress
+43,River Junction,Cardiac Arrest
+44,Central Station,Minor Burn
+45,West Gate,Dehydration
+46,Lakeside Center,Structure Fire
+47,West Gate,Seizure
+48,Central Station,Cardiac Arrest
+49,South Park,Suspected Fracture
+50,Lakeside Center,Labor Emergency
+51,Lakeside Center,Structure Fire
+52,River Junction,Respiratory Distress
+53,Lakeside Center,Structure Fire
+54,West Gate,Labor Emergency
+55,South Park,Suspected Fracture
+56,River Junction,Persistent Fever
+57,River Junction,Major Collision
+58,West Gate,Minor Burn
+59,River Junction,Syncope
+60,East Market,Cardiac Arrest
+61,South Park,Dehydration
+62,South Park,Severe Hemorrhage
+63,East Market,Labor Emergency
+64,North Clinic,Dehydration
+65,East Market,Anxiety Episode
+66,East Market,Head Trauma
+67,South Park,Stroke Symptoms
+68,East Market,Severe Hemorrhage
+69,West Gate,Major Collision
+70,North Clinic,Gastrointestinal Illness
+71,East Market,Severe Hemorrhage
+72,Central Station,Severe Hemorrhage
+73,East Market,Allergic Reaction
+74,South Park,Allergic Reaction
+75,River Junction,Major Collision
+76,Lakeside Center,Minor Collision
+77,North Clinic,Dehydration
+78,Central Station,Dehydration
+79,Lakeside Center,Respiratory Distress
+80,River Junction,Dehydration
+81,West Gate,Head Trauma
+82,West Gate,Respiratory Distress
+83,Central Station,Severe Hemorrhage
+84,East Market,Stroke Symptoms
+85,North Clinic,Syncope
+86,South Park,Seizure
+87,Central Station,Respiratory Distress
+88,North Clinic,Structure Fire
+89,Lakeside Center,Minor Collision
+90,Lakeside Center,Anxiety Episode
+91,East Market,Drug Overdose
+92,South Park,Severe Hemorrhage
+93,Lakeside Center,Allergic Reaction
+94,North Clinic,Gastrointestinal Illness
+95,South Park,Animal Injury
+96,South Park,Respiratory Distress
+97,East Market,Structure Fire
+98,West Gate,Minor Collision
+99,East Market,Cardiac Arrest
+100,River Junction,Anxiety Episode

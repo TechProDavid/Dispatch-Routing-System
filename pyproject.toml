@@ -1,0 +1,12 @@
+[project]
+name = "ambulance-dispatch-routing-system"
+version = "1.0.0"
+description = "Priority-based ambulance dispatch simulator comparing Dijkstra and Bellman-Ford shortest-path routing."
+requires-python = ">=3.10"
+authors = [
+    {name = "David-Aurel Djako"}
+]
+
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
